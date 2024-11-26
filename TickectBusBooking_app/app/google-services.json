@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139964084247",
+    "project_id": "ticketbusapp-f01fe",
+    "storage_bucket": "ticketbusapp-f01fe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139964084247:android:70587f51c5118644482c52",
+        "android_client_info": {
+          "package_name": "com.example.tickectbusbooking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXeovDOmld3z_Ltx8ECYq2iYq1oIeqEQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
